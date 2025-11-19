@@ -1,0 +1,3 @@
+﻿  Bank _ystem.cpp
+D:\prog\Visual Studio 2022 community\repos\Bank system\Bank _ystem\Bank _ystem\Bank _ystem.cpp(30,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Bank _ystem.vcxproj -> D:\prog\Visual Studio 2022 community\repos\Bank system\Bank _ystem\x64\Debug\Bank _ystem.exe
